@@ -191,6 +191,53 @@ For MGDI design:
 
 <img width="1300" height="697" alt="image" src="https://github.com/user-attachments/assets/480cce33-7d89-4782-89be-62303ea7f4ad" />
 
+6.2 Transient Waveform of 4x4 Multiplier (MGDI)
+
+<img width="1292" height="693" alt="image" src="https://github.com/user-attachments/assets/acc1f455-2550-495d-bb76-47fd3aaf4c34" />
+
+6.3 Power Dissipation Waveform of 4x4 Multiplier (Static CMOS).3 Power Dissipation Waveform of 4x4 Multiplier (Static CMOS)  
+
+<img width="1310" height="636" alt="image" src="https://github.com/user-attachments/assets/92345729-c843-4cbf-8706-85f0c04f861d" />
+
+6.4 Power Dissipation Waveform of 4x4 Multiplier (MGDI)
+
+<img width="1292" height="664" alt="image" src="https://github.com/user-attachments/assets/02a00ec6-4c38-4345-b425-0c91c036ab68" />
+
+6.5 Power Dissipation Value
+
+The Power Dissipation in Calculated by taking Average Value of Power dissipation waveform in calculator tool in virtuoso&.
+
+<img width="370" height="295" alt="image" src="https://github.com/user-attachments/assets/30e2ceef-eb22-41b9-bd45-8110b48a5a06" />
+
+Standard CMOS based 4x4 Multiplier
+
+<img width="406" height="295" alt="image" src="https://github.com/user-attachments/assets/14f683f4-0872-4ba7-90e9-295346e3e7c5" />
+
+MGDI based 4x4 Multiplier
+
+Power reduced by = (6.129 x 10^-6 / 12.32 x 10^-6) x 100 = 49.74%
+
+Conclusion
+
+•	The following circuits are designed using static CMOS and MGDI and performed comparative analysis.
+•	We have observed the  power dissipation primarily stems from dynamic power consumption, driven by switching activities during multiplication operations.
+•	It’s observed that power dissipation has reduced almost 50% by using MGDI compared to Static CMOS.
+•	Number Of Transistors has been reduced significantly in MGDI compared to Static CMOS.
+•	However there is certain limitation of using MGDI, occurred was it was not able to produce a strong ‘0’ or ‘1’.
+
+
+                       
+
+
+
+
+
+
+
+
+
+
+
 
 
 
